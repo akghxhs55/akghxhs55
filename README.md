@@ -1,23 +1,27 @@
-## Hi there 👋
+## 👋 Hi there
 
-<!--
-**akghxhs55/akghxhs55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer interested in developer tools and game graphics programming.
 
-Here are some ideas to get you started:
+### 🔭 Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[GDShader Language Support](https://plugins.jetbrains.com/plugin/27949-gdshader)** - IntelliJ-based IDE plugin for Godot's shading language
+- **30 Shaders in 30 Days** - Learning practical game shaders through daily challenges
+
+### 🎯 Interests
+
+- Game Development
+- Developer Tools & Workflow Automation
+- Graphics Programming & Shaders
+- Functional Programming
+
+### 📫 Links
+
+[Blog](https://www.jaehoyi.kr/) · [Email](mailto:akghxhs55@gmail.com)
+
+---
 
 <div align="center">
   
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=klimmek55)](https://solved.ac/klimmek55)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=klimmek55)](https://solved.ac/klimmek55)
 
 </div>
