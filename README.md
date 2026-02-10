@@ -5,7 +5,7 @@ Developer interested in developer tools and game graphics programming.
 ### 🔭 Currently Working On
 
 - **[GDShader Language Support](https://plugins.jetbrains.com/plugin/27949-gdshader)** - IntelliJ-based IDE plugin for Godot's shading language
-- **30 Shaders in 30 Days** - Learning practical game shaders through daily challenges
+- **[30 Shaders in 30 Days](https://github.com/akghxhs55/30-shaders-in-30-days)** - Learning practical game shaders through daily challenges
 
 ### 🎯 Interests
 
