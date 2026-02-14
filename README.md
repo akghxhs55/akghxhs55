@@ -6,7 +6,7 @@ Interested in developer tools and game graphics programming.
 - Korea University, Dept of Computer Science & Engineering (2021-Current)
 - Sunrin Internet High School, Dept of Information & Telecommunication (2017-2020)
 
-### 🍹 Awards
+### 🏆 Awards
 - ICPC Asia Seoul Regional 2021 5th prize (14th place)
 - APIO (Asia-Pacific Informatics Olympiad) 2019 Silver prize
 
