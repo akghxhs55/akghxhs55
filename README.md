@@ -21,6 +21,7 @@ Interested in developer tools and game graphics programming.
 - Developer Tools & Workflow Automation
 - Graphics Programming & Shaders
 - Functional Programming
+- Algorithm & Problem Solving
 
 ### 📫 Links
 
