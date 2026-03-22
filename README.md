@@ -7,8 +7,10 @@ Interested in developer tools and game graphics programming.
 - **Sunrin Internet High School**, Dept of Information & Telecommunication (2017-2020)
 
 ### 🏆 Awards
-- **ICPC Asia Seoul Regional 2021** 5th prize (14th place)
-- **APIO** (Asia-Pacific Informatics Olympiad) **2019** Silver prize
+- ICPC Asia Seoul Regional 2021 **5th prize** (14th place)
+- Kookmin University Algorithm Competition 2019 **1st prize**
+- APIO (Asia-Pacific Informatics Olympiad) 2019 **Silver prize**
+- Kyung Hee University National High School Algorithm Competition 2018 **1st prize**
 
 ### 🔭 Currently Working On
 
