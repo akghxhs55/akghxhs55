@@ -15,8 +15,8 @@ Interested in developer tools and game programming.
 ### 🔭 Projects
 
 - **[GDShader Language Support](https://github.com/akghxhs55/gdshader-support)** - A IntelliJ-based IDE plugin for Godot's shading language
-- **[30 Shaders in 30 Days](https://github.com/akghxhs55/30-shaders-in-30-days)** - Learning practical game shaders through daily challenges
 - **[Radiance Cascades](https://github.com/akghxhs55/radiance-cascades-d3d11)** - A 2D Radiance Cascades global illumination prototype built with C++20, Direct3D 11, and HLSL
+- **[30 Shaders in 30 Days](https://github.com/akghxhs55/30-shaders-in-30-days)** - Learning practical game shaders through daily challenges
 
 ### 🎯 Interests
 
