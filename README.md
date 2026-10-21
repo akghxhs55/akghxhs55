@@ -9,7 +9,7 @@ Interested in game programming, graphics and developer tools.
 ### 🏆 Awards
 - ICPC Asia Seoul Regional 2021 **5th prize** (14th place)
 - Kookmin University Algorithm Competition 2019 **1st prize**
-- APIO (Asia-Pacific Informatics Olympiad) 2019 **Silver prize**
+- APIO (Asia-Pacific Informatics Olympiad) 2019 **Silver medal**
 - Kyung Hee University National High School Algorithm Competition 2018 **1st prize**
 
 ### 🔭 Projects
