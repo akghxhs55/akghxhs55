@@ -1,6 +1,6 @@
 ## 👋 Jaeho Yi
 
-Interested in developer tools and game programming.
+Interested in game programming, graphics and developer tools.
 
 ### 🏫 Education
 - **Korea University**, Dept of Computer Science & Engineering (2021-Current)
@@ -21,10 +21,10 @@ Interested in developer tools and game programming.
 ### 🎯 Interests
 
 - Game Development
-- Developer Tools & Workflow Automation
-- Graphics Programming & Shaders
-- Functional Programming
+- Computer Graphics & Shaders
+- Developer Tools
 - Algorithm & Problem Solving
+- Functional Programming
 
 ### 📫 Links
 
